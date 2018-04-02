@@ -1,0 +1,29 @@
+{
+  "name": "playground-jquery-redux",
+  "version": "1.0.0",
+  "description": "A playground for jQuery wand Redux.",
+  "author": "Roberto Achar <robertoachar@gmail.com>",
+  "homepage": "https://github.com/robertoachar/playground-jquery-redux#readme",
+  "keywords": ["node"],
+  "main": "src/index.js",
+  "files": ["src"],
+  "scripts": {
+    "lint": "eslint src/**/*.js",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/robertoachar/playground-jquery-redux.git"
+  },
+  "bugs": {
+    "url": "https://github.com/robertoachar/playground-jquery-redux/issues"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "4.19.1",
+    "eslint-config-prettier": "2.9.0",
+    "eslint-plugin-prettier": "2.6.0",
+    "prettier": "1.11.1"
+  },
+  "license": "MIT"
+}
